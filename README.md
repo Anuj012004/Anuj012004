@@ -8,7 +8,7 @@ I'm a Full-Stack Software Engineer motivated by using technology to solve meanin
 
 
 
-<p align="left">
+<!-- <p align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FF3B30&style=plastic&logo=link&logo-color=white"/></a>
 
@@ -20,7 +20,7 @@ I'm a Full-Stack Software Engineer motivated by using technology to solve meanin
 
   <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=FF3B30&style=plastic&logo=file&logo-color=white"/></a>
-</p>
+</p> -->
 
 <h1 align="center">Technologies</h1>
 
